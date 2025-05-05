@@ -1,5 +1,4 @@
 #Personal Finance Tracker App 
-#Collaborators
 
 # import the main libraries
 from datetime import datetime
